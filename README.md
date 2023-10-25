@@ -4,7 +4,7 @@
 </p>
 
 ## Visão Geral
-O Projeto Algoritms é uma incrível coleção de algoritmos implementados em várias Javascript, abrangendo desde algoritmos de ordenação até algoritmos de busca e muito mais. 🚀
+O Projeto Algoritms é uma incrível coleção de algoritmos implementados em Javascript, abrangendo desde algoritmos de ordenação até algoritmos de busca e muito mais. 🚀
 
 ## Funcionalidades
 - count_present_students 📊: Calcula a quantidade de estudantes presentes em um período de permanência.
