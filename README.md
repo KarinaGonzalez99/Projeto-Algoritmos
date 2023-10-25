@@ -1,5 +1,7 @@
 # Projeto Algoritms
-![Algoritms GIF](https://camo.githubusercontent.com/b46c29741918f9a0a107772eb0bd1aff628ba041354c73934a242a7d5e2e33f5/68747470733a2f2f6d656469612e74656e6f72...
+<p align="center">
+  <img src="https://media.tenor.com/9X-I0mcc_OgAAAAC/dog-funny.gif" alt="GIF divertido de auau"/>
+</p>
 
 ## Visão Geral
 O Projeto Algoritms é uma incrível coleção de algoritmos implementados em várias Javascript, abrangendo desde algoritmos de ordenação até algoritmos de busca e muito mais. 🚀
