@@ -20,7 +20,7 @@ Este é o primeiro projeto desenvolvido por Karina Gonzalez durante o curso da T
 ## Licença
 Este projeto é licenciado sob a MIT License.
 
-## Agradecimentos
-Obrigado por verificar o Projeto Algoritms! Esperamos que você encontre os algoritmos úteis em seus projetos. Se tiver alguma sugestão ou encontrar algum problema, não hesite em abrir uma [issue](https://github.com/KarinaGonzalez99/projeto-algoritms/issues). 😊
+## Notas finais
+Obrigado por verificar o Projeto Algoritms! Espero que você encontre os algoritmos úteis para seus projetos. Se tiver alguma sugestão ou encontrar algum problema, não hesite em abrir uma [issue](https://github.com/KarinaGonzalez99/projeto-algoritms/issues). 😊
 
 Divirta-se programando! 🎉👩‍💻👨‍💻
