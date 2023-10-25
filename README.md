@@ -4,7 +4,7 @@
 </p>
 
 ## Visão Geral
-O Projeto Algoritms é uma incrível coleção de algoritmos implementados em Javascript, abrangendo desde algoritmos de ordenação até algoritmos de busca e muito mais. 🚀
+O Projeto Algoritms é uma incrível coleção de algoritmos implementado, abrangendo desde algoritmos de ordenação até algoritmos de busca e muito mais. 🚀
 
 ## Funcionalidades
 - count_present_students 📊: Calcula a quantidade de estudantes presentes em um período de permanência.
@@ -15,7 +15,7 @@ O Projeto Algoritms é uma incrível coleção de algoritmos implementados em Ja
 - is_palindrome_iterative 🔄: Verifica palíndromos de forma iterativa.
 
 ## Autor
-Este é o primeiro projeto desenvolvido por Karina Gonzalez durante o curso da Trybe. 🎉
+Este é o primeiro projeto do Modulo Ciência da Computação desenvolvido por Karina Gonzalez durante o curso da Trybe. 🎉
 
 ## Licença
 Este projeto é licenciado sob a MIT License.
